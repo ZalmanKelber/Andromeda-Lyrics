@@ -1,4 +1,33 @@
+(dialogue accompanied by underscore)
+
+ZHAPUR
+
+You were on Athlantin!?
+
+KEPODE
+
+Yep.  I worked there as a miner for three years
+
 ZUGAN
+
+How did you make it off of that place?
+
+KEPODE 
+
+I got lucky and was already trained as a mechanic.  So when the opportunity opened up, I joined the guild
+and worked my way up until I made it into communications work.  But I know the boys down on that planet.  
+Most of them, I reckon, are still there.  Although if that ship is who we think it is, I bet you there are more 
+than a few boys from down on Athlantin on it 
+
+ZHAPUR 
+
+You think so?
+
+KEPODE
+
+Believe me.  I know so 
+
+(sung)
 
 They were earnest boys
 Robbed of even the barest joys
@@ -36,7 +65,65 @@ The swollen cargo ships climbed into the night sky clear
 And when they looked straight up and watched them disappear
 The stars spelled out revolution
 
-And they talked about revolution…
+(spoken)
+
+ZUGAN:
+
+Captain, chart a course for the outer quadrant fifth station.  We're gonna overtake that ship 
+
+ZHAPUR:
+
+Commander, this is madness 
+
+ZUGAN:
+
+That was an order
+
+ZHAPUR:
+
+Zugan, you can't be serious–
+
+ZUGAN:
+
+Captain, that was an order!
+
+ZHAPUR:
+
+Zugan, in five years piloting this ship together, you've never used your rank to force something I was againt
+
+ZUGAN:
+
+Captain, don't think for a moment that I won't report any disobediance on this ship to the tribunal as soon as we're back in federal jurisdiction.  
+Now for the last time, chart a course for the outer quadrant fifth station 
+
+ZHAPUR:
+
+Yes, Commander 
+
+ZUGAN:
+
+Mission control, do you copy?  Mission control, do you copy?
+
+(pauses)
+
+Mission control, if anyone's there... this is Commander ZUGAN AZUDAVA of the FS-2534.  I am invoking the intra-galactic flight charter section 355 
+to launch a rogue operation against an enemy combatant.  The suspected target is believed to be an RNF asset and is believed to have destroyed the central quadrant 
+third station.  End communication.
+
+Captain, what is the status of our itinerary?
+
+ZHAPUR:
+
+Assuming it's an old Idrennian Sigma-88 model, it'll be too bulky to tunnel through the narrow route-points between here and the outer quadrant.  It will take 
+them just under two days to reach the station, but we can overtake them in half the time 
+
+ZUGAN:
+
+Thank you, Captain.  All personnel, brace for rotational accelleration at 1.7G
+
+(end of dialogue interlude)
+
+KEPODE
 
 As they scoured through the planet’s thick, metallic veins
 The blood of their masters purpled the surface in titanic stains
