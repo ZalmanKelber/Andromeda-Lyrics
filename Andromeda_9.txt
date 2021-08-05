@@ -1,4 +1,4 @@
-HENCHWOMAN 3 (to ZUGAN)
+HENCHWOMAN 3 (to NAKATA)
 
 In times that are tough, when you travel it’s best not to go alone
 Wherever you’re headed, these are treacherous routes that you’ve flown
@@ -7,7 +7,7 @@ Now your path lies within our control
 If you want to get out of here whole
 Then get ready to atone
 
-HENCHWOMAN 2 (to KEPODE)
+HENCHWOMAN 2 (to SOKO)
 
 The weak fall behind and the strong live to fight on another day
 We’ve captured your ship, you better do all that we say
@@ -16,7 +16,7 @@ Then you’ll learn that one rule regulates the galaxy
 Nature's law, don't you see?
 The predator knocks out her prey
 
-HENCHMAN 2 (to ZHAPUR)
+HENCHMAN 2 (to TAYSS)
 
 Bow to her, kowtow to her, you’re the type that she will spare
 Warrior, don't hurry her, you’ll be useful in our care
@@ -26,7 +26,7 @@ Let your hatred be your guide
 
 —————
 
-ZHAPUR 
+TAYSS 
 
 See what I think about your Queen
 
@@ -34,7 +34,7 @@ HENCHMAN 2
 
 Watch what you're doing, stranger, careful
 
-ZHAPUR 
+TAYSS 
 
 No!  You cannot chain me any longer 
 
@@ -42,7 +42,7 @@ HENCHMAN 2
 
 There's no exit you can leave by
 
-ZHAPUR
+TAYSS
 
 Wouldn't you know
 
@@ -50,7 +50,7 @@ HENCHMAN 2
 
 If you hurt me they will kill you 
 
-ZHAPUR 
+TAYSS 
 
 Let go!  Or you will feel the pain my anger will inflict
 
@@ -70,7 +70,7 @@ HENCHMAN 2
 
 Don't try to hold on any longer 
 
-ZHAPUR 
+TAYSS 
 
 No!
 

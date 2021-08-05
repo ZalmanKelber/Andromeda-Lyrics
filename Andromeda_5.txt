@@ -1,29 +1,29 @@
 (dialogue accompanied by underscore)
 
-ZHAPUR
+TAYSS
 
 You were on Athlantin!?
 
-KEPODE
+SOKO
 
 Yep.  I worked there as a miner for three years
 
-ZUGAN
+NAKATA
 
 How did you make it off of that place?
 
-KEPODE 
+SOKO 
 
 I got lucky and was already trained as a mechanic.  So when the opportunity opened up, I joined the guild
 and worked my way up until I made it into communications work.  But I know the boys down on that planet.  
 Most of them, I reckon, are still there.  Although if that ship is who we think it is, I bet you there are more 
 than a few boys from down on Athlantin on it 
 
-ZHAPUR 
+TAYSS 
 
 You think so?
 
-KEPODE
+SOKO
 
 Believe me.  I know so 
 
@@ -67,40 +67,39 @@ The stars spelled out revolution
 
 (spoken)
 
-ZUGAN:
+NAKATA:
 
 Captain, chart a course for the outer quadrant fifth station.  We're gonna overtake that ship 
 
-ZHAPUR:
+TAYSS:
 
 Commander, this is madness 
 
-ZUGAN:
+NAKATA:
 
 That was an order
+TAYSS:
 
-ZHAPUR:
+Nakata, you can't be serious–
 
-Zugan, you can't be serious–
-
-ZUGAN:
+NAKATA:
 
 Captain, that was an order!
 
-ZHAPUR:
+TAYSS:
 
 Zugan, in five years piloting this ship together, you've never used your rank to force something I was againt
 
-ZUGAN:
+NAKATA:
 
 Captain, don't think for a moment that I won't report any disobediance on this ship to the tribunal as soon as we're back in federal jurisdiction.  
 Now for the last time, chart a course for the outer quadrant fifth station 
 
-ZHAPUR:
+TAYSS:
 
 Yes, Commander 
 
-ZUGAN:
+NAKATA:
 
 Mission control, do you copy?  Mission control, do you copy?
 
@@ -112,18 +111,18 @@ third station.  End communication.
 
 Captain, what is the status of our itinerary?
 
-ZHAPUR:
+TAYSS:
 
 Assuming it's an old Idrennian Sigma-88 model, it'll be too bulky to tunnel through the narrow route-points between here and the outer quadrant.  It will take 
 them just under two days to reach the station, but we can overtake them in half the time 
 
-ZUGAN:
+NAKATA:
 
 Thank you, Captain.  All personnel, brace for rotational accelleration at 1.7G
 
 (end of dialogue interlude)
 
-KEPODE
+SOKO
 
 As they scoured through the planet’s thick, metallic veins
 The blood of their masters purpled the surface in titanic stains
